@@ -21,5 +21,12 @@ https://przemyslaw-pajka.github.io/HO-form/build/.
 ### Build a production version
 For build a production version correctly, please download all packages using `npm install`, and then replace in package.json `"homepage": "http://exampleURL"` .Where 'exampleURL' is, you need to replace it to the address you will be using. For example `"homepage": "http://127.0.0.1:5500/HO-form/"`. Next you must type `npm run` build in terminal.
 
+### Development version
+To use in a development environment, type`npm start` in a terminal in the code editor
+
 ### Using XAMPP
 To use with Xampp, download the build folder, and then put it in the htdocs folder. Rename the build folder, e.g. to website-name, and then enter localhost/htdocs/website-name in the browser.
+
+### Node and NPM Version
+Node version v10.19.0
+NPM Version 6.14.4
