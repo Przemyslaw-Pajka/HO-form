@@ -6,6 +6,7 @@
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![alt text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+In build forms I used Formik library https://formik.org/
 
 # Getting started with this project
 ## 1. Getting the source code
@@ -19,4 +20,5 @@ https://przemyslaw-pajka.github.io/HO-form/build/.
 ### Build a production version
 For build a production version correctly, please download all packages using `npm install`, and then replace in package.json `"homepage": "http://exampleURL"` .Where 'exampleURL' is, you need to replace it to the address you will be using. For example `"homepage": "http://127.0.0.1:5500/HO-form/"`. Next you must type `npm run` build in terminal.
 
-
+### Using XAMPP
+To use with Xampp, download the build folder, and then put it in the htdocs folder. Rename the build folder, e.g. to website-name, and then enter localhost/htdocs/website-name in the browser.
