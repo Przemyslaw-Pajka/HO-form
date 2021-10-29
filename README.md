@@ -6,8 +6,8 @@
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![alt text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-To build forms I used Formik library https://formik.org/
-To send data I used Axios https://axios-http.com/docs/intro
+##### To build forms I used Formik library https://formik.org/
+##### To send data I used Axios https://axios-http.com/docs/intro
 
 # Getting started with this project
 ## 1. Getting the source code
